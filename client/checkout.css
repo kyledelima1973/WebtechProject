@@ -1,0 +1,23 @@
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.products, .shipping {
+    width: 45%; /* Adjust width as needed */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.product-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.product-item img {
+    width: 50px; /* Set a fixed width for the images */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Space between image and text */
+}

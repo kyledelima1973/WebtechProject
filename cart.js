@@ -57,7 +57,7 @@ function getProductById(productId) {
         { id: 3, name: "ROG Phone 7 Ultimate", image: "./images/ROG PHONE 7 Ultimate.png", price: 64950 },
         { id: 4, name: "ROG Phone 7", image: "./images/ROG PHONE 7a.png", price: 40995 },
         { id: 5, name: "ROG Phone 6D Ultimate", image: "./images/ROG Phone 6D Utimate.png", price: 69995 },
-        { id: 6, name: "ROG Phone 6", image: "../images/ROG Phone 6.png", price: 30995 },
+        { id: 6, name: "ROG Phone 6", image: "./images/ROG Phone 6.png", price: 30995 },
         { id: 7, name: "ROG Strix g18 (2024) G814", image: "./images/rogstrixg18.jpg", price: 84900 },
         { id: 8, name: "ROG Zephyrus G16 (2023) GU603", image: "./images/ROG Zephyrus G16 (2023) GU603.png", price: 98700 },
         { id: 9, name: "ROG Strix SCAR 16 (2024) G634", image: "./images/ROG Strix SCAR 16 (2024) G634.png", price: 162125 },
